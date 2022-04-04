@@ -1,0 +1,72 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-11
+[SSN]: 454-54-5454
+[STATEID]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 6666
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 05:43:11am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-11
+[SSN]: 454-54-5454
+[STATEID]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 6666
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 102938457572726363662727828282828
+[Expiration date]: 12/2022
+[Security code]: 555
+[Atm pin]: 9999
+[Mmn]: boss
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 05:44:14am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+

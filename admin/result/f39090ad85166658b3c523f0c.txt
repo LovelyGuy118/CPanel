@@ -1,0 +1,28 @@
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: tesr
+[password]: tesr
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 123-43-4465
+[DL]: 1212121
+[ISSuingSTate]: Alaska
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 124453
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 103.242.106.110
+City: 
+OS/Browser: Chrome
+Time: 07/03/2022 03:20:24pm
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+

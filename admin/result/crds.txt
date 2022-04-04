@@ -1,0 +1,504 @@
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: Jekbhe
+[password]: jdjbe
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: Uhsjjs
+[Lastname]: Bsjsj
+[DateOFbirth]: 2022-03-11
+[SSN]: 646-46-4664
+[DL]: 94949499494
+[ISSuingSTate]: California
+[Address1]: 62hshshsh
+[Address2]: Shshhs
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (627) 272 7373
+[CarrierPin]: 727272
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 4048002865162509
+[Expiration date]: 12/2202
+[Security code]: 427
+[Atm pin]: 1234
+[Mmn]: Nsjsjsn
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.106.219
+City: 
+OS/Browser: Handheld Browser
+Time: 04/03/2022 07:24:11am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 1212343434565656565622223333333333
+[Expiration date]: 02/2022
+[Security code]: 089
+[Atm pin]: 1111
+[Mmn]: asasa
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 08/03/2022 02:09:34pm
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 121-21-2121
+[DL]: 1212121
+[ISSuingSTate]: Alaska
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: 
+[State]: 
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 111111
+[CarrierName]: 
+[RouTingNumber]: 
+[BranchNumber]: 
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 1234545452323678
+[Expiration date]: 02/2022
+[Security code]: 111
+[Atm pin]: 1234
+[Mmn]: aaaa
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 08/03/2022 02:24:32pm
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: tesr
+[password]: tesr
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 121-23-4345
+[DL]: 1212122
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1836
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 123434343423232222
+[Expiration date]: 12/2022
+[Security code]: 009
+[Atm pin]: 5555
+[Mmn]: asass
++ --------------[ Zroxo ip ]---------------+
+IP Address: 103.242.106.110
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 09:34:20am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 19348737437434343434342222
+[Expiration date]: 12/2022
+[Security code]: 222
+[Atm pin]: 9999
+[Mmn]: asas
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 09/03/2022 09:35:12am
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 122934834873473473499356
+[Expiration date]: 02/2022
+[Security code]: 111
+[Atm pin]: 7777
+[Mmn]: asasas
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 09/03/2022 09:38:06am
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: yukav123
+[password]: yukav4676+
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: f name 
+[Lastname]: l name
+[DateOFbirth]: 1987-12-12
+[SSN]: 123-45-6789
+[DL]: 4785695213
+[ISSuingSTate]: Illinois
+[Address1]: 45 st queens
+[Address2]: st apt
+[ZipCode]: 10005
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (214) 548 6985
+[CarrierPin]: 1245
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 4215585755
+[Expiration date]: 88/6865
+[Security code]: 555
+[Atm pin]: 4444
+[Mmn]: maine
++ --------------[ Zroxo ip ]---------------+
+IP Address: 138.199.21.214
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 10:42:59am
+User Agent: Windows 10
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: Username
+[password]: gjtyhuii
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: markus
+[Lastname]: Benz
+[DateOFbirth]: 2022-03-19
+[SSN]: 326-54-7823
+[DL]: 799452316846
+[ISSuingSTate]: California
+[Address1]: Nebraska
+[Address2]: A4
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (712) 301 2235
+[CarrierPin]: 3211
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 355555555666555
+[Expiration date]: 12/2200
+[Security code]: 123
+[Atm pin]: 1234
+[Mmn]: Test
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.212.248
+City: 
+OS/Browser: Handheld Browser
+Time: 13/03/2022 12:05:12pm
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: asasasas
+[Lastname]: asasasas
+[DateOFbirth]: 2022-03-10
+[SSN]: 111-11-1111
+[DL]: 11111111111
+[ISSuingSTate]: Arkansas
+[Address1]: jajsf
+[Address2]: 111
+[ZipCode]: 12122
+[City]: 
+[State]: 
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1111
+[CarrierName]: 
+[RouTingNumber]: 
+[BranchNumber]: 
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: 
+[Password]: 
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 83
+[Expiration date]: 11/2022
+[Security code]: 000
+[Atm pin]: 1111
+[Mmn]: aaaa
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 14/03/2022 05:33:29am
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-11
+[SSN]: 454-54-5454
+[STATEID]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 6666
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 102938457572726363662727828282828
+[Expiration date]: 12/2022
+[Security code]: 555
+[Atm pin]: 9999
+[Mmn]: boss
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 05:44:14am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: markus7
+[password]: teser456
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: markus7
+[Password]: teser456
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: markus7benz@gmail.com
+[Password]: backwords
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: Markus
+[Lastname]: Benz
+[DateOFbirth]: 2022-03-16
+[SSN]: 321-32-1556
+[DL]: 123456789048464
+[ISSuingSTate]: Arizona
+[Address1]: 14 at queens
+[Address2]: Opt address
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (712) 303 3032
+[CarrierPin]: 1111
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: markus7
+[Password]: teser456
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: markus7benz@gmail.com
+[Password]: backwords
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 43322627727263
+[Expiration date]: 41/2202
+[Security code]: 123
+[Atm pin]: 1234
+[Mmn]: M name
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 09:14:17am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: m
+[Password]: t
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: m
+[Password]: b
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 627266272625755765273
+[Expiration date]: 12/2222
+[Security code]: 223
+[Atm pin]: 4567
+[Mmn]: Nejw
++ --------------[ Zroxo ip ]---------------+
+IP Address: 
+City: 
+OS/Browser: 
+Time: 14/03/2022 09:28:08am
+User Agent: 
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: User
+[password]: pass
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: U
+[Password]: p
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: N
+[Password]: n
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: Markus
+[Lastname]: Benx
+[DateOFbirth]: 2022-03-16
+[SSN]: 123-56-8987
+[DL]: 2187694546394
+[ISSuingSTate]: California
+[Address1]: 14 at queens
+[Address2]: 
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (712) 302 3398
+[CarrierPin]: 2134
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: U
+[Password]: p
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: N
+[Password]: n
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 41239639672554
+[Expiration date]: 12/3487
+[Security code]: 123
+[Atm pin]: 3456
+[Mmn]: Nancy
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 09:30:37am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: username
+[password]: password
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: password
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: email@gmail.com
+[Password]: emailpass
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: F name
+[Lastname]: L name
+[DateOFbirth]: 2022-03-01
+[SSN]: 123-45-6789
+[STATEID]: 123321123321
+[ISSuingSTate]: California
+[Address1]: 12 block
+[Address2]: 
+[ZipCode]: 10005
+[City]: 
+[State]: 
+[Ph0neNumber]: (324) 638 6386
+[CarrierPin]: 3476
+[CarrierName]: 
+[RouTingNumber]: 
+[BranchNumber]: 
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: password
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: email@gmail.com
+[Password]: emailpass
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 57338374747
+[Expiration date]: 12/4444
+[Security code]: 677
+[Atm pin]: 1234
+[Mmn]: M name
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 09:34:42am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: username
+[Password]: passwords
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: tester404@gmail.com
+[Password]: testpass
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 433297637
+[Expiration date]: 12/2019
+[Security code]: 675
+[Atm pin]: 1234
+[Mmn]: M name
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 10:18:29am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: Tesuser
+[Password]: tespasa
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: Gsjsj@gmail.com
+[Password]: vshwbw
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: Teating
+[Lastname]: Yshsj
+[DateOFbirth]: 2022-03-17
+[SSN]: 646-81-6194
+[ISSuingSTate]: Colorado
+[Address1]: Shb
+[Address2]: 
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (628) 628 2782
+[CarrierPin]: 2234
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 738376383
+[Expiration date]: 62/7277
+[Security code]: 627
+[Atm pin]: 5272
+[Mmn]: Jejen
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 11:42:55am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+

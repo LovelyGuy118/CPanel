@@ -1,0 +1,174 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-05
+[SSN]: 112-23-3343
+[DL]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: 12121212121
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1234
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 09:40:29am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-05
+[SSN]: 112-23-3343
+[DL]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: 12121212121
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1234
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-18
+[SSN]: 121-21-2121
+[DL]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 2345
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 09:42:53am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-05
+[SSN]: 112-23-3343
+[DL]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: 12121212121
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1234
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-18
+[SSN]: 121-21-2121
+[DL]: 1212121
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 2345
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 1121222
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-25
+[SSN]: 121-21-2121
+[STATEID]: 12121212
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 5555
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 09:45:06am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+

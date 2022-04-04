@@ -1,0 +1,86 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 123455
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 111-11-1111
+[DL]: 1212121
+[ISSuingSTate]: Alaska
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 2222
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 09:46:27am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[password]: tesr
+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: tesr
+[Password]: tesr
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: anangnov99@gmail.com
+[Password]: 123455
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 111-11-1111
+[DL]: 1212121
+[ISSuingSTate]: Alaska
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 2222
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-11
+[SSN]: 111-11-1111
+[DL]: 11111111111
+[ISSuingSTate]: Alaska
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1111
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 114.5.243.21
+City: 
+OS/Browser: Chrome
+Time: 14/03/2022 09:48:10am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+

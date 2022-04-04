@@ -1,0 +1,63 @@
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: yukav123
+[password]: yukav4676+
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: f name 
+[Lastname]: l name
+[DateOFbirth]: 1987-12-12
+[SSN]: 123-45-6789
+[DL]: 4785695213
+[ISSuingSTate]: Illinois
+[Address1]: 45 st queens
+[Address2]: st apt
+[ZipCode]: 10005
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (214) 548 6985
+[CarrierPin]: 1245
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
++ --------------[ Zroxo ip ]---------------+
+IP Address: 138.199.21.214
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 10:41:44am
+User Agent: Windows 10
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: yukav123
+[password]: yukav4676+
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: f name 
+[Lastname]: l name
+[DateOFbirth]: 1987-12-12
+[SSN]: 123-45-6789
+[DL]: 4785695213
+[ISSuingSTate]: Illinois
+[Address1]: 45 st queens
+[Address2]: st apt
+[ZipCode]: 10005
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (214) 548 6985
+[CarrierPin]: 1245
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 4215585755
+[Expiration date]: 88/6865
+[Security code]: 555
+[Atm pin]: 4444
+[Mmn]: maine
++ --------------[ Zroxo ip ]---------------+
+IP Address: 138.199.21.214
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 10:42:59am
+User Agent: Windows 10
++ --------------[ Zroxo V1 ]---------------+

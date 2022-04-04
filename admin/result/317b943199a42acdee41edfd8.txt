@@ -1,0 +1,63 @@
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: Username
+[password]: gjtyhuii
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: markus
+[Lastname]: Benz
+[DateOFbirth]: 2022-03-19
+[SSN]: 326-54-7823
+[DL]: 799452316846
+[ISSuingSTate]: California
+[Address1]: Nebraska
+[Address2]: A4
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (712) 301 2235
+[CarrierPin]: 3211
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.212.248
+City: 
+OS/Browser: Handheld Browser
+Time: 13/03/2022 12:04:28pm
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: Username
+[password]: gjtyhuii
+
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: markus
+[Lastname]: Benz
+[DateOFbirth]: 2022-03-19
+[SSN]: 326-54-7823
+[DL]: 799452316846
+[ISSuingSTate]: California
+[Address1]: Nebraska
+[Address2]: A4
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (712) 301 2235
+[CarrierPin]: 3211
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
+
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 355555555666555
+[Expiration date]: 12/2200
+[Security code]: 123
+[Atm pin]: 1234
+[Mmn]: Test
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.212.248
+City: 
+OS/Browser: Handheld Browser
+Time: 13/03/2022 12:05:12pm
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+

@@ -1,0 +1,64 @@
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: Tesuser
+[Password]: tespasa
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: Gsjsj@gmail.com
+[Password]: vshwbw
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: Teating
+[Lastname]: Yshsj
+[DateOFbirth]: 2022-03-17
+[SSN]: 646-81-6194
+[DL]: 6466464949
+[ISSuingSTate]: Colorado
+[Address1]: Shb
+[Address2]: 
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (628) 628 2782
+[CarrierPin]: 2234
+[CarrierName]: 
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 11:42:13am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ INFO LOGIN PAGE ]---------------+
+[Username]: Tesuser
+[Password]: tespasa
++ --------------[ INFO EMAIL POPUP PAGE ]---------------+
+[Email]: Gsjsj@gmail.com
+[Password]: vshwbw
++ --------------[ INFO VERIFY PAGE ]---------------+
+[Firstname]: Teating
+[Lastname]: Yshsj
+[DateOFbirth]: 2022-03-17
+[SSN]: 646-81-6194
+[ISSuingSTate]: Colorado
+[Address1]: Shb
+[Address2]: 
+[ZipCode]: 10001
+[City]: NEW YORK
+[State]: NY
+[Ph0neNumber]: (628) 628 2782
+[CarrierPin]: 2234
+[RouTingNumber]: 021000021
+[BranchNumber]: 000726
++ --------------[ INFO CC VERIFY PAGE ]---------------+
+[Card Number]: 738376383
+[Expiration date]: 62/7277
+[Security code]: 627
+[Atm pin]: 5272
+[Mmn]: Jejen
++ --------------[ Zroxo ip ]---------------+
+IP Address: 157.38.217.240
+City: 
+OS/Browser: Handheld Browser
+Time: 14/03/2022 11:42:55am
+User Agent: Android
++ --------------[ Zroxo V1 ]---------------+

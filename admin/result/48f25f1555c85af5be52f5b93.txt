@@ -1,0 +1,63 @@
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: tesr
+[password]: tesr
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 121-23-4345
+[DL]: 1212122
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1836
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
++ --------------[ Zroxo ip ]---------------+
+IP Address: 103.242.106.110
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 09:31:20am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
++ --------------[ Zroxo V1 ]---------------+
+[Username2]: tesr
+[password]: tesr
+
++ --------------[ ZROXO INFO ]---------------+
+[Firstname]: anang
+[Lastname]: novriadi
+[DateOFbirth]: 2022-03-10
+[SSN]: 121-23-4345
+[DL]: 1212122
+[ISSuingSTate]: Alabama
+[Address1]: Canggu
+[Address2]: Surabaya
+[ZipCode]: 60154
+[City]: WESTCHESTER
+[State]: IL
+[Ph0neNumber]: (085) 236 6947
+[CarrierPin]: 1836
+[CarrierName]: 
+[RouTingNumber]: 071000013
+[BranchNumber]: 000157
+
++ --------------[ ZROXO CC ]---------------+
+[Card Number]: 123434343423232222
+[Expiration date]: 12/2022
+[Security code]: 009
+[Atm pin]: 5555
+[Mmn]: asass
++ --------------[ Zroxo ip ]---------------+
+IP Address: 103.242.106.110
+City: 
+OS/Browser: Chrome
+Time: 09/03/2022 09:34:20am
+User Agent: Mac OS X
++ --------------[ Zroxo V1 ]---------------+
